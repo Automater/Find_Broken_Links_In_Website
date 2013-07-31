@@ -19,7 +19,7 @@ B.  Results of the test is saved into a CSV file.
 ![Alt text](http://173.0.133.251/images/GitHub/ResultsBrokenLinks.jpg "Results of Broken Links")
 
 
-C.  A broken link is verified.
+C.  A broken link is verified to see if it's a false positive.
 
 ![Alt text](http://173.0.133.251/images/GitHub/brokenlink.jpg "Broken Link Verification")
 
