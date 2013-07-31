@@ -1,0 +1,7 @@
+@ACL1000
+^LOGFILE  Find_Broken_Links_In_Website        "" "Find_Broken_Links_In_Website.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    Find_Broken_Links_In_Website       
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\Find_Broken_Links_In_Website\Find_Broken_Links_In_Website.bat"' ASYNC
+^OPEN 
