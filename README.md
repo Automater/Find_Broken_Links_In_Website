@@ -1,5 +1,7 @@
 ### FIND BROKEN LINKS IN WEBSITE ###
 
+![Alt text](http://173.0.133.251/images/GitHub/Fixing-Broken-Links.png "AA Ping script")
+
 Test all links in the clients' website.
 
 
